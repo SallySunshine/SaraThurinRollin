@@ -2,8 +2,10 @@
 
 
 body {
-	height: 100%;
-	margin: 20px; padding: 40px;
+	margin: 0px;
+	padding: 0px;
+	width: 670px;
+	height: 900px:
 	text-align: left;
 	width: 670px;
 	background-color: gray;
